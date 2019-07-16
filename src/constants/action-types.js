@@ -1,0 +1,2 @@
+export const SHOW_NOTIFICATION=200;
+export const HIDE_NOTIFICATION=2000;

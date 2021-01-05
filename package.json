@@ -11,7 +11,7 @@
     "async": "2.6.1",
     "autoprefixer": "8.6.5",
     "autosuggest-highlight": "^3.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap-jss": "0.12.12",
     "chart.js": "2.7.2",
     "chartjs-plugin-datalabels": "0.4.0",
